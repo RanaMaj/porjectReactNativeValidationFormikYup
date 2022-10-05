@@ -1,5 +1,3 @@
-# porjectReactNativeValidationFormikYup
-
 ## Login Screen with Formik & Yup 
 ### Validation Form
 
